@@ -1,5 +1,5 @@
 
-# EJ2 DropDownList sharing value in Angular routing.
+# EJ2 DropDownList input height override.
 
 ## Installing
 
