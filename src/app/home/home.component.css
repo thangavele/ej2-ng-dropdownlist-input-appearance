@@ -1,0 +1,28 @@
+#ddlelement1 .e-input-group .e-input-group-icon {
+  min-height: 20px;
+}
+
+#ddlelement1 input.e-input, .e-input-group input {
+  height: 20px;
+}
+
+
+
+#ddlelement2 .e-input-group .e-input-group-icon {
+  min-height: 35px;
+}
+
+#ddlelement2 input.e-input, .e-input-group input {
+  height: 35px;
+}
+
+
+
+
+#ddlelement3 .e-input-group .e-input-group-icon {
+  min-height: 50px;
+}
+
+#ddlelement3 input.e-input, .e-input-group input {
+  height: 50px;
+}
